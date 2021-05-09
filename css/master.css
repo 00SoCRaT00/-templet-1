@@ -473,7 +473,7 @@ body {
 
 @media (max-width:767px) {
     .contact .continer a {
-        font-size: 30px;
+        font-size: 28px;
     }
     .contact .continer p:nth-child(3) {
         font-size: 40px;
